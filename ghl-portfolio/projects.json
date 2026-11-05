@@ -47,8 +47,27 @@
     "howItWorks": "The pipeline provides a place to track opportunities. Prospective buyers can enter a long-term nurture journey. Past buyers receive a different follow-up path, while recurring birthday, anniversary, and holiday messages help maintain contact over time. Those pieces serve different stages of the buyer relationship rather than treating every contact the same way.",
     "outcomeStatement": "The project documentation marks all five deliverables complete and includes pipeline, email-template, and automation screenshots with references to walkthroughs. This establishes documented system configuration; measured conversion, sending performance, and revenue results are not available.",
     "outcomeType": "configuration",
-    "evidenceSummary": "The implementation record covers the buyer pipeline, email templates, and automation workflows. Client-identifying screenshots are not included in this public case study.",
-    "gallery": [],
+    "evidenceSummary": "Anonymized crops from the original implementation record. Client identifiers and administrator details are excluded. These screenshots document configuration; they do not establish measured business results.",
+    "gallery": [
+      {
+        "src": "/projects/real-estate-buyer-follow-up/pipeline.png",
+        "alt": "GoHighLevel buyer pipeline stages from new contact through property search, offer and post-sale follow-up.",
+        "caption": "Buyer pipeline: the configured stages organize opportunities from first contact through the sale and follow-up.",
+        "privacyApproved": true
+      },
+      {
+        "src": "/projects/real-estate-buyer-follow-up/email-templates.png",
+        "alt": "Buyer email-template list showing appointment reminders and monthly nurture messages.",
+        "caption": "Email templates: an excerpt of the prepared reminder and buyer-nurture messages. Administrator columns are excluded.",
+        "privacyApproved": true
+      },
+      {
+        "src": "/projects/real-estate-buyer-follow-up/workflows.png",
+        "alt": "GoHighLevel workflow list containing buyer nurture, appointment and recurring customer-contact automations.",
+        "caption": "Automation overview: the workflow list documents buyer nurture, appointment follow-up and recurring customer messages. This is configuration evidence, not a performance report.",
+        "privacyApproved": true
+      }
+    ],
     "walkthroughUrl": null,
     "testimonial": null,
     "status": "draft",
@@ -107,8 +126,21 @@
     ],
     "outcomeStatement": "The project record documents a GHL automation build. It does not establish a specific conversion result, number of leads, revenue impact, or every individual workflow behavior.",
     "outcomeType": "configuration",
-    "evidenceSummary": "The implementation record shows six workflow groups, a Zapier sync overview, and handoff documentation. Screenshots containing client identifiers are omitted pending publication permission.",
-    "gallery": [],
+    "evidenceSummary": "Anonymized crops from the original implementation record. Client identifiers and administrator details are excluded. These screenshots document configuration; they do not establish measured business results.",
+    "gallery": [
+      {
+        "src": "/projects/real-estate-funnel-automation/registration-workflow.png",
+        "alt": "Registration workflow canvas showing a form-submission trigger followed by workflow steps.",
+        "caption": "Registration and reminders: an excerpt of the documented master workflow. The overview shows the structure; it does not expose every action setting.",
+        "privacyApproved": true
+      },
+      {
+        "src": "/projects/real-estate-funnel-automation/attendee-workflow.png",
+        "alt": "Attendee follow-up workflow canvas with a contact-tag trigger and subsequent workflow steps.",
+        "caption": "Attendee follow-up: a separate workflow path for workshop attendees, shown as recorded in the project documentation.",
+        "privacyApproved": true
+      }
+    ],
     "walkthroughUrl": null,
     "testimonial": null,
     "status": "draft",

@@ -10,10 +10,14 @@ Client names are withheld, including from public URLs and metadata. Current rout
 
 Reviewed the brief and both original Notion screenshots in Downloads. The local originals are clearer than the dimensions described in the brief. The buyer record shows five checked deliverables. The second record supports six workflow group headings and a Zapier sync to FUB, but does not establish conversion/revenue results or Akorede's individual role beyond the supplied brief.
 
-Still needed: client naming permission; permission and approved redactions for individual gallery images; meaning of HBW; confirmation of individual contribution; working authorized walkthrough URLs. Review wording is visible in the local original, but attribution to Akorede and publication permission remain unconfirmed, so it is omitted.
+Still needed: client naming permission; meaning of HBW; confirmation of individual contribution; working authorized walkthrough URLs. Review wording is visible in the local original, but attribution to Akorede and publication permission remain unconfirmed, so it is omitted.
 
 ## Adding evidence
 
 Put approved, redacted images under `dist/projects/<anonymous-slug>/`. Add gallery entries with `src` (root-relative `/projects/...`), meaningful `alt`, `caption`, and `privacyApproved: true`. Missing files and unapproved entries are omitted. Set `walkthroughApproved: true` alongside a real HTTPS `walkthroughUrl` to expose a video. Testimonials require `permissionConfirmed: true`; authors remain anonymous while `clientNameApproved` is false. Review every free-text field for identifiers before publication.
 
 The existing `noindex,nofollow` draft setting remains; remove it deliberately when the portfolio is ready for search indexing. No production deployment was performed in this phase.
+
+## Screenshot crops added November 5, 2026
+
+The user approved publicly using anonymized crops from the original screenshots. Five pixel-preserving PNG crops are included: buyer pipeline, email-template list, buyer workflow overview, registration workflow canvas, and attendee workflow canvas. The crops exclude business branding, administrator columns and profile icons; full source screenshots remain outside the published directory. Crop coordinates are recorded in `crop-evidence.ps1`. No workflow content was generated or reconstructed. Images retain source resolution and have captions, alt text and full-size links. Client naming and testimonial permission remain unconfirmed.

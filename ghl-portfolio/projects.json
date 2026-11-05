@@ -1,0 +1,119 @@
+[
+  {
+    "slug": "real-estate-buyer-follow-up",
+    "clientDisplayName": "Wall Street Realty",
+    "clientNameApproved": false,
+    "anonymousLabel": "Real estate buyer follow-up",
+    "featured": true,
+    "featuredOrder": 1,
+    "category": "REAL ESTATE · CRM & BUYER AUTOMATION",
+    "headline": "Helping a real estate business stay connected with buyers beyond the first inquiry.",
+    "shortDescription": "I built a GoHighLevel buyer-engagement setup combining a sales pipeline, long-term nurturing for website leads, past-buyer follow-ups, referral prompts, and recurring customer messages. The goal was to give different groups of buyers a clearer, more consistent communication journey.",
+    "title": "A buyer follow-up system built for relationships that last beyond the sale.",
+    "deck": "Some buyers are ready to move now. Others need time. And the relationship doesn't have to end once a property is sold. I built a GHL system to support communication at each of those stages.",
+    "sector": "Real estate",
+    "platform": "GoHighLevel",
+    "focus": "Buyer nurture, CRM pipeline, email/SMS automation",
+    "tags": [
+      "Buyer Pipeline",
+      "Lead Nurturing",
+      "Past-Buyer Follow-Up",
+      "Email & SMS"
+    ],
+    "challenge": "The project called for a more organized way to track buyers and keep in touch with them, whether they had just opted in through the website or had bought previously. Instead of relying on one-off follow-ups, the setup needed distinct campaigns for different moments in the buyer relationship.",
+    "roleSummary": "I configured the buyer-focused GHL components documented in the project.",
+    "buildSections": [
+      {
+        "title": "Sales pipeline",
+        "body": "A single buyer pipeline to track movement from lead toward customer."
+      },
+      {
+        "title": "Long-term buyer nurturing",
+        "body": "A marketing campaign sequence for prospective buyers who opted in through the website."
+      },
+      {
+        "title": "Previous-buyer follow-up",
+        "body": "A campaign for past buyers, including prompts that encourage referrals."
+      },
+      {
+        "title": "Birthday and anniversary messages",
+        "body": "Recurring campaigns linked to those occasions."
+      },
+      {
+        "title": "Holiday SMS messaging",
+        "body": "Holiday-specific SMS greeting/campaign workflows."
+      }
+    ],
+    "howItWorks": "The pipeline provides a place to track opportunities. Prospective buyers can enter a long-term nurture journey. Past buyers receive a different follow-up path, while recurring birthday, anniversary, and holiday messages help maintain contact over time. Those pieces serve different stages of the buyer relationship rather than treating every contact the same way.",
+    "outcomeStatement": "The project documentation marks all five deliverables complete and includes pipeline, email-template, and automation screenshots with references to walkthroughs. This establishes documented system configuration; measured conversion, sending performance, and revenue results are not available.",
+    "outcomeType": "configuration",
+    "evidenceSummary": "The implementation record covers the buyer pipeline, email templates, and automation workflows. Client-identifying screenshots are not included in this public case study.",
+    "gallery": [],
+    "walkthroughUrl": null,
+    "testimonial": null,
+    "status": "draft",
+    "ctaTitle": "Need a clearer buyer follow-up process?",
+    "ctaBody": "Tell me where leads are getting stuck and what you want your GHL setup to handle.",
+    "ctaLabel": "Let's Discuss Your Setup"
+  },
+  {
+    "slug": "real-estate-funnel-automation",
+    "clientDisplayName": "Soho Realty",
+    "clientNameApproved": false,
+    "anonymousLabel": "Real estate funnel & automation",
+    "featured": true,
+    "featuredOrder": 2,
+    "category": "REAL ESTATE · FUNNEL & WORKFLOW AUTOMATION",
+    "headline": "Bringing a real estate funnel and its follow-up workflows into one documented build.",
+    "shortDescription": "I worked on a full HBW funnel and automation project in GoHighLevel. The implementation documentation shows multiple workflow configurations, with accompanying screenshots and project handoff material. Here's a closer look at the work and how it was organized.",
+    "title": "A full GoHighLevel funnel and automation build for a real estate business.",
+    "deck": "A funnel is only one part of the customer journey. The workflows behind it need to be configured and documented, too. This project brings those elements together in one implementation record.",
+    "sector": "Real estate",
+    "platform": "GoHighLevel",
+    "focus": "Full HBW funnel & automation",
+    "projectDate": "January 2026",
+    "tags": [
+      "GHL Funnel",
+      "Automation Workflows",
+      "Implementation Documentation"
+    ],
+    "challenge": "The project called for automation and a funnel for an upcoming webinar. The implementation record organizes the follow-up around workshop registration, attendance, replay engagement, assessment scores, and strategy sessions.",
+    "roleSummary": "My documented work covers the funnel-and-automation project and multiple GHL workflow configurations.",
+    "buildSections": [
+      {
+        "title": "Workshop registration & reminders",
+        "body": "The project documents a master registration-to-reminder workflow."
+      },
+      {
+        "title": "Post-workshop attendee follow-up",
+        "body": "A separate master workflow covers follow-up for workshop attendees."
+      },
+      {
+        "title": "Replay nurture",
+        "body": "The documentation groups no-show follow-up and replay viewers into a replay nurture sequence."
+      },
+      {
+        "title": "Assessment-based nurturing",
+        "body": "Separate sections document a four-week medium-score nurture sequence and a six-month lower-score nurture sequence."
+      },
+      {
+        "title": "Strategy-session sequence",
+        "body": "A booked strategy-session workflow is documented as its own sequence."
+      },
+      {
+        "title": "Sync & handoff documentation",
+        "body": "The record includes Zapier workflows for synchronization to FUB, plus walkthrough-video and customer-journey mapping sections. Linked videos are not available in this public case study."
+      }
+    ],
+    "outcomeStatement": "The project record documents a GHL automation build. It does not establish a specific conversion result, number of leads, revenue impact, or every individual workflow behavior.",
+    "outcomeType": "configuration",
+    "evidenceSummary": "The implementation record shows six workflow groups, a Zapier sync overview, and handoff documentation. Screenshots containing client identifiers are omitted pending publication permission.",
+    "gallery": [],
+    "walkthroughUrl": null,
+    "testimonial": null,
+    "status": "draft",
+    "ctaTitle": "Need your funnel and follow-ups to work together?",
+    "ctaBody": "Tell me what you're building and where your current GHL process needs attention.",
+    "ctaLabel": "Let's Discuss Your Project"
+  }
+]

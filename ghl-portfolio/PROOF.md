@@ -16,7 +16,7 @@ Still needed: client naming permission; meaning of HBW; confirmation of individu
 
 Put approved, redacted images under `dist/projects/<anonymous-slug>/`. Add gallery entries with `src` (root-relative `/projects/...`), meaningful `alt`, `caption`, and `privacyApproved: true`. Missing files and unapproved entries are omitted. Set `walkthroughApproved: true` alongside a real HTTPS `walkthroughUrl` to expose a video. Testimonials require `permissionConfirmed: true`; authors remain anonymous while `clientNameApproved` is false. Review every free-text field for identifiers before publication.
 
-The existing `noindex,nofollow` draft setting remains; remove it deliberately when the portfolio is ready for search indexing. No production deployment was performed in this phase.
+The draft `noindex,nofollow` setting was removed on November 22, 2026. The build now adds canonical URLs, sitemap.xml, robots.txt, structured data and the Google verification file through seo.cjs.
 
 ## Screenshot crops added November 5, 2026
 
